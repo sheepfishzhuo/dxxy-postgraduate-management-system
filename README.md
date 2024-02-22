@@ -4,22 +4,17 @@
 
 ### （1）主要功能
 
-<div style="font-weight:700;">
-    <div style="display:inline-block">
-        <ul>
-            <li>研究生和导师基本信息的管理</li>
-            <li>班级及班主任基本信息的管理</li>
-            <li>研究生各类科研成果信息的管理</li>
-        </ul>
-    </div>
-    <div style="display:inline-block">
-        <ul>
-            <li>研究生评奖推优管理</li>
-            <li>校友管理及就业信息发布</li>
-            <li>学生请假管理</li>
-        </ul>
-    </div>
+<div style="font-weight:700;display:inline-block;">
+    <ol>
+    	<li>研究生和导师基本信息的管理</li>
+        <li>班级及班主任基本信息的管理</li>
+        <li>研究生各类科研成果信息的管理</li>
+        <li>研究生评奖推优管理</li>
+        <li>校友管理及就业信息发布</li>
+        <li>学生请假管理</li>
+    </ol>
 </div>
+
 
 ### （2）使用框架
 
